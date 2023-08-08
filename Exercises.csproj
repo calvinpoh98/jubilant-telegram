@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Exercise D.cs" />
     <Compile Include="Exercise E.cs" />
+    <Compile Include="ExerciseF.cs" />
     <Compile Include="G:\Other computers\New Desktop\NUS ISS\Sem 1\FOPCS\Exercise\Exercise C.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
